@@ -1,0 +1,5 @@
+1. Going through google oAuth python documentation for Google Sheet -> 4.10 -4.30
+2. Implementing the google sheet connector -> 4.30 - 4.45
+3. Troubleshooting a bug which occured while login -> 4.45 - 4.55
+4. Implementing the csv build part -> 4.55 - 5.15
+5. Testing, refactoring and fixing bugs -> 5.15 - 5.35
